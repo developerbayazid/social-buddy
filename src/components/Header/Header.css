@@ -1,0 +1,14 @@
+header ul {
+  text-align: center;
+}
+header li {
+  list-style: none;
+  border: 1px solid gray;
+  display: inline-block;
+  background-color: blueviolet;
+}
+header li a {
+  text-decoration: none;
+  padding: 30px;
+  color: #fff;
+}

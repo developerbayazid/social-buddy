@@ -1,0 +1,11 @@
+.home {
+  padding: 10px 40px;
+  text-align: center;
+}
+.post {
+  text-align: left;
+  border: 1px solid salmon;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+}
